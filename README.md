@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kejzerek
+- 👀 I’m interested in board games
+- 🌱 I’m currently learning Python
+- 📫 How to reach me... I'll reach You.
